@@ -1,0 +1,54 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0,0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "200,0,0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "-200,0,0,0",
+            "h_alignment": "left",
+            "item_size": 400,
+            "rows": [
+              [
+                "awesome_snowboard","rear_leg","hyperfunk_thruster","left_megawatt_speaker","righteous_rapmaster_capsule","forward_stabilizing_unit","rocketship_windshield","amplamator_connector_fin","super_funkomatic_amplamator","right_megawatt_speaker"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "elevator_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0,0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0,0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 0",
+            "h_alignment": "right",
+            "item_size": 300,
+            "rows": [
+              [
+                "elevator"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+} 

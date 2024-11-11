@@ -1,0 +1,18 @@
+{
+  "name": "Toejam & Earl AP",
+  "game_name": "Toejam & Earl",
+  "package_version": "1.0.0.0",
+  "package_uid": "tjeap",
+  "platform": "Mega Drive / Genesis",
+  "author": "GrayGooGlitch",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.28.0",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

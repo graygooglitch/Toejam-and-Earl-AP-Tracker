@@ -1,0 +1,59 @@
+{
+  //sets the trackers layout
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#layouts
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Elevator",
+              "dock": "right",
+              "margin": "200,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "elevator_item_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Ship Parts",
+              "dock": "left",
+              "margin": "0,0,3,0",
+              "content": {
+                "type": "layout",
+                "h_alignment": "center",
+                "v_alignment": "center",
+                "key": "shared_item_grid"
+              }
+            }
+            
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Levels & Ranks",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "map1"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

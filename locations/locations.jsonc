@@ -1,0 +1,1020 @@
+[
+  {
+    "name": "Main",
+    "overlay_background": "#99000000",
+    "children": [
+      {
+        "name": "Level 0",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 0,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 100,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 1",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 12,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 100,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 2",
+        "access_rules": [
+          "lat2"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat2"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 100,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 3",
+        "access_rules": [
+          "lat3"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat3"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 100,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 4",
+        "access_rules": [
+          "lat4"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat4"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 198,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 5",
+        "access_rules": [
+          "lat5"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat5"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 198,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 6",
+        "access_rules": [
+          "lat6"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat6"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 198,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 7",
+        "access_rules": [
+          "lat7"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat7"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 198,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 8",
+        "access_rules": [
+          "lat8"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat8"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 294,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 9",
+        "access_rules": [
+          "lat9"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat9"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 294,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 10",
+        "access_rules": [
+          "lat10"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat10"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 294,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 11",
+        "access_rules": [
+          "lat11"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat11"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 294,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 12",
+        "access_rules": [
+          "lat12"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat12"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 396,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 13",
+        "access_rules": [
+          "lat13"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat13"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 396,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 14",
+        "access_rules": [
+          "lat14"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat14"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 396,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 15",
+        "access_rules": [
+          "lat15"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat15"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 396,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 16",
+        "access_rules": [
+          "lat16"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat16"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 502,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 17",
+        "access_rules": [
+          "lat17"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat17"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 502,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 18",
+        "access_rules": [
+          "lat18"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat18"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 502,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 19",
+        "access_rules": [
+          "lat19"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat19"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 502,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 20",
+        "access_rules": [
+          "lat20"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat20"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 610,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 21",
+        "access_rules": [
+          "lat21"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat21"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 610,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Level 22",
+        "access_rules": [
+          "lat22"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat22"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 610,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Level 23",
+        "access_rules": [
+          "lat23"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat23"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 610,
+            "y": 208
+          }
+        ]
+      },
+      {
+        "name": "Level 24",
+        "access_rules": [
+          "lat24"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat24"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 710,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Level 25",
+        "access_rules": [
+          "lat25, $ship_parts_required|9"
+        ],
+        "sections": [
+          {
+            "name": "Items",
+            "item_count": 28,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          },
+          {
+            "name": "Ship Part",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/ship_piece.png",
+            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "visibility_rules": [
+              "sat25"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":20,
+            "x": 710,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Dufus",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 68
+          }
+        ]
+      },
+      {
+        "name": "Poindexter",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 91
+          }
+        ]
+      },
+      {
+        "name": "Peanut",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 113
+          }
+        ]
+      },
+      {
+        "name": "Dude",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "name": "Bro",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 158
+          }
+        ]
+      },
+      {
+        "name": "Homey",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 181
+          }
+        ]
+      },
+      {
+        "name": "Rapmaster",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "Funk Lord",
+        "access_rules": [
+        ],
+        "sections": [
+          {
+            "name": "Promotion Item",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "map1",
+            "size":15,
+            "x": 900,
+            "y": 227
+          }
+        ]
+      }
+    ]
+  }
+]

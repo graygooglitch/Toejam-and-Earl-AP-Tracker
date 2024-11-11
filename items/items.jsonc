@@ -1,0 +1,520 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Rocketship Windshield",
+    "type": "toggle",
+    "img": "images/items/rocketship_windshield.png",
+    "codes": "rocketship_windshield"
+  },
+  {
+    "name": "Left Megawatt Speaker",
+    "type": "toggle",
+    "img": "images/items/left_megawatt_speaker.png",
+    "codes": "left_megawatt_speaker"
+  },
+  {
+    "name": "Super Funkomatic Amplamator",
+    "type": "toggle",
+    "img": "images/items/super_funkomatic_amplamator.png",
+    "codes": "super_funkomatic_amplamator"
+  },
+  {
+    "name": "Amplamator Connector Fin",
+    "type": "toggle",
+    "img": "images/items/amplamator_connector_fin.png",
+    "codes": "amplamator_connector_fin"
+  },
+  {
+    "name": "Forward Stabilizing Unit",
+    "type": "toggle",
+    "img": "images/items/forward_stabilizing_unit.png",
+    "codes": "forward_stabilizing_unit"
+  },
+  {
+    "name": "Rear Leg",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "rear_leg"
+  },
+  {
+    "name": "Awesome Snowboard",
+    "type": "toggle",
+    "img": "images/items/awesome_snowboard.png",
+    "codes": "awesome_snowboard"
+  },
+  {
+    "name": "Righteous Rapmaster Capsule",
+    "type": "toggle",
+    "img": "images/items/righteous_rapmaster_capsule.png",
+    "codes": "righteous_rapmaster_capsule"
+  },
+  {
+    "name": "Right Megawatt Speaker",
+    "type": "toggle",
+    "img": "images/items/right_megawatt_speaker.png",
+    "codes": "right_megawatt_speaker"
+  },
+  {
+    "name": "Hyperfunk Thruster",
+    "type": "toggle",
+    "img": "images/items/hyperfunk_thruster.png",
+    "codes": "hyperfunk_thruster"
+  },
+  {
+    "name": "Ship Parts",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 10,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "ship_parts"
+  },
+  {
+    "name": "Map Reveals",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 100,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "map_reveals"
+  },
+  {
+    "name": "Progressive Key",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 15,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 1,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "progkey"
+  },
+  {
+    "name": "Elevator Keys",
+    "type": "progressive",
+    "initial_stage_idx": 0,
+    "allow_disabled":false,
+    "stages": [
+      {
+        "img": "images/items/elevator.png",
+        "codes": "elevator",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_2.png",
+        "codes": "_2",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_3.png",
+        "codes": "_3",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_4.png",
+        "codes": "_4",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_5.png",
+        "codes": "_5",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_6.png",
+        "codes": "_6",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_7.png",
+        "codes": "_7",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_8.png",
+        "codes": "_8",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_9.png",
+        "codes": "_9",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_10.png",
+        "codes": "_10",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_11.png",
+        "codes": "_11",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_12.png",
+        "codes": "_12",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_13.png",
+        "codes": "_13",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_14.png",
+        "codes": "_14",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_15.png",
+        "codes": "_15",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_16.png",
+        "codes": "_16",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_17.png",
+        "codes": "_17",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_18.png",
+        "codes": "_18",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_19.png",
+        "codes": "_19",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_20.png",
+        "codes": "_20",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_21.png",
+        "codes": "_21",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_22.png",
+        "codes": "_22",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_23.png",
+        "codes": "_23",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_24.png",
+        "codes": "_24",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/elevator_25.png",
+        "codes": "_25",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Level Access Token 2",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat2"
+  },
+  {
+    "name": "Level Access Token 3",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat3"
+  },
+  {
+    "name": "Level Access Token 4",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat4"
+  },
+  {
+    "name": "Level Access Token 5",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat5"
+  },
+  {
+    "name": "Level Access Token 6",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat6"
+  },
+  {
+    "name": "Level Access Token 7",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat7"
+  },
+  {
+    "name": "Level Access Token 8",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat8"
+  },
+  {
+    "name": "Level Access Token 9",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat9"
+  },
+  {
+    "name": "Level Access Token 10",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat10"
+  },
+  {
+    "name": "Level Access Token 11",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat11"
+  },
+  {
+    "name": "Level Access Token 12",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat12"
+  },
+  {
+    "name": "Level Access Token 13",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat13"
+  },
+  {
+    "name": "Level Access Token 14",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat14"
+  },
+  {
+    "name": "Level Access Token 15",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat15"
+  },
+  {
+    "name": "Level Access Token 16",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat16"
+  },
+  {
+    "name": "Level Access Token 17",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat17"
+  },
+  {
+    "name": "Level Access Token 18",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat18"
+  },
+  {
+    "name": "Level Access Token 19",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat19"
+  },
+  {
+    "name": "Level Access Token 20",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat20"
+  },
+  {
+    "name": "Level Access Token 21",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat21"
+  },
+  {
+    "name": "Level Access Token 22",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat22"
+  },
+  {
+    "name": "Level Access Token 23",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat23"
+  },
+  {
+    "name": "Level Access Token 24",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat24"
+  },
+  {
+    "name": "Level Access Token 25",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "lat25"
+  },
+  {
+    "name": "Ship Item Access Token 2",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat2"
+  },
+  {
+    "name": "Ship Item Access Token 3",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat3"
+  },
+  {
+    "name": "Ship Item Access Token 4",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat4"
+  },
+  {
+    "name": "Ship Item Access Token 5",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat5"
+  },
+  {
+    "name": "Ship Item Access Token 6",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat6"
+  },
+  {
+    "name": "Ship Item Access Token 7",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat7"
+  },
+  {
+    "name": "Ship Item Access Token 8",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat8"
+  },
+  {
+    "name": "Ship Item Access Token 9",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat9"
+  },
+  {
+    "name": "Ship Item Access Token 10",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat10"
+  },
+  {
+    "name": "Ship Item Access Token 11",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat11"
+  },
+  {
+    "name": "Ship Item Access Token 12",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat12"
+  },
+  {
+    "name": "Ship Item Access Token 13",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat13"
+  },
+  {
+    "name": "Ship Item Access Token 14",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat14"
+  },
+  {
+    "name": "Ship Item Access Token 15",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat15"
+  },
+  {
+    "name": "Ship Item Access Token 16",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat16"
+  },
+  {
+    "name": "Ship Item Access Token 17",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat17"
+  },
+  {
+    "name": "Ship Item Access Token 18",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat18"
+  },
+  {
+    "name": "Ship Item Access Token 19",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat19"
+  },
+  {
+    "name": "Ship Item Access Token 20",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat20"
+  },
+  {
+    "name": "Ship Item Access Token 21",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat21"
+  },
+  {
+    "name": "Ship Item Access Token 22",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat22"
+  },
+  {
+    "name": "Ship Item Access Token 23",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat23"
+  },
+  {
+    "name": "Ship Item Access Token 24",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat24"
+  },
+  {
+    "name": "Ship Item Access Token 25",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "sat25"
+  }
+]
