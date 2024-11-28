@@ -6,14 +6,35 @@
     "margin": "0,0",
     "content": [
       {
-        "type": "array",
-        "orientation": "horizontal",
-        "margin": "0,0",
+        "type": "dock",
+        "dock": "bottom",
         "content": [
           {
-            "type": "layout",
-            "key": "shared_item_grid"
+            "type": "group",
+            "header": "Elevator",
+            "dock": "right",
+            "margin": "0,0,200,0",
+            "content": {
+              "type": "layout",
+              "h_alignment": "center",
+              "v_alignment": "center",
+              "key": "elevator_item_grid"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Ship Parts",
+            "dock": "left",
+            "width": 500,
+            "margin": "0,0,0,0",
+            "content": {
+              "type": "layout",
+              "h_alignment": "center",
+              "v_alignment": "center",
+              "key": "shared_item_grid"
+            }
           }
+          
         ]
       }
     ]

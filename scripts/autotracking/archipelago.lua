@@ -11,6 +11,7 @@ CUR_INDEX = -1
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 KEY_LEVEL_ACCESS = {}
+LAST_LEVEL = 25
 
 
 -- resets an item to it's inital state
@@ -92,6 +93,10 @@ function apply_slot_data(slot_data)
 	-- put any code here that slot_data should affect (toggling setting items for example)
 	print(dump_table(slot_data))
 	KEY_LEVEL_ACCESS = slot_data["key_level_access"]
+	LAST_LEVEL = slot_data["last_level"]
+	local obj = Tracker:FindObjectForCode("last_level")
+	obj.AcquiredCount = LAST_LEVEL
+	print(LAST_LEVEL)
 	local ship_item_levels = slot_data["ship_item_levels"]
 	local items_per_level = slot_data["items_per_level"]
 	-- set item counts

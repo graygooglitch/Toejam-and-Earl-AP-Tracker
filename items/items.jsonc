@@ -88,7 +88,7 @@
     "name": "Progressive Key",
     "type": "consumable",
     "img": "images/items/consumable.png",
-    "max_quantity": 15,
+    "max_quantity": 25,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 1,
@@ -229,6 +229,19 @@
       }
     ]
   },
+  {
+    "name": "Last Level",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 25,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 25,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "last_level"
+  },
+  
   {
     "name": "Level Access Token 2",
     "type": "toggle",
