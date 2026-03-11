@@ -241,7 +241,18 @@
     "overlay_font_size": 8,
     "codes": "last_level"
   },
-  
+    {
+    "name": "Max Rank",
+    "type": "consumable",
+    "img": "images/items/consumable.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 8,
+    "overlay_background": "#000000",
+    "overlay_font_size": 8,
+    "codes": "max_rank"
+  },
   {
     "name": "Level Access Token 2",
     "type": "toggle",
@@ -529,5 +540,155 @@
     "type": "toggle",
     "img": "images/items/rear_leg.png",
     "codes": "sat25"
+  },
+  {
+    "name": "Mailbox Item Access Token 2",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat2"
+  },
+  {
+    "name": "Mailbox Item Access Token 3",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat3"
+  },
+  {
+    "name": "Mailbox Item Access Token 4",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat4"
+  },
+  {
+    "name": "Mailbox Item Access Token 5",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat5"
+  },
+  {
+    "name": "Mailbox Item Access Token 6",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat6"
+  },
+  {
+    "name": "Mailbox Item Access Token 7",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat7"
+  },
+  {
+    "name": "Mailbox Item Access Token 8",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat8"
+  },
+  {
+    "name": "Mailbox Item Access Token 9",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat9"
+  },
+  {
+    "name": "Mailbox Item Access Token 10",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat10"
+  },
+  {
+    "name": "Mailbox Item Access Token 11",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat11"
+  },
+  {
+    "name": "Mailbox Item Access Token 12",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat12"
+  },
+  {
+    "name": "Mailbox Item Access Token 13",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat13"
+  },
+  {
+    "name": "Mailbox Item Access Token 14",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat14"
+  },
+  {
+    "name": "Mailbox Item Access Token 15",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat15"
+  },
+  {
+    "name": "Mailbox Item Access Token 16",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat16"
+  },
+  {
+    "name": "Mailbox Item Access Token 17",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat17"
+  },
+  {
+    "name": "Mailbox Item Access Token 18",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat18"
+  },
+  {
+    "name": "Mailbox Item Access Token 19",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat19"
+  },
+  {
+    "name": "Mailbox Item Access Token 20",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat20"
+  },
+  {
+    "name": "Mailbox Item Access Token 21",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat21"
+  },
+  {
+    "name": "Mailbox Item Access Token 22",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat22"
+  },
+  {
+    "name": "Mailbox Item Access Token 23",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat23"
+  },
+  {
+    "name": "Mailbox Item Access Token 24",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat24"
+  },
+  {
+    "name": "Mailbox Item Access Token 25",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "mat25"
+  },
+  {
+    "name": "Reach Item Access Token",
+    "type": "toggle",
+    "img": "images/items/rear_leg.png",
+    "codes": "rat"
   }
 ]

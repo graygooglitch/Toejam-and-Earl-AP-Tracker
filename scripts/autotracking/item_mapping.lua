@@ -4,14 +4,14 @@
 BASE_ITEM_ID = 25101991
 ITEM_MAPPING = {
 	[BASE_ITEM_ID + 00000] = { { "rocketship_windshield" },{"ship_parts"} },
-	[BASE_ITEM_ID + 00001] = { { "left_megawatt_speaker" },{"ship_parts"} },
+	[BASE_ITEM_ID + 00001] = { { "right_megawatt_speaker" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00002] = { { "super_funkomatic_amplamator" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00003] = { { "amplamator_connector_fin" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00004] = { { "forward_stabilizing_unit" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00005] = { { "rear_leg" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00006] = { { "awesome_snowboard" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00007] = { { "righteous_rapmaster_capsule" },{"ship_parts"} },
-	[BASE_ITEM_ID + 00008] = { { "right_megawatt_speaker" },{"ship_parts"} },
+	[BASE_ITEM_ID + 00008] = { { "left_megawatt_speaker" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00009] = { { "hyperfunk_thruster" },{"ship_parts"} },
 	[BASE_ITEM_ID + 00010] = { { "Icarus Wings" } },
 	[BASE_ITEM_ID + 00011] = { { "Spring Shoes" } },

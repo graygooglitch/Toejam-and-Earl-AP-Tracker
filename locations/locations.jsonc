@@ -67,7 +67,49 @@
             "chest_unopened_img": "images/items/ship_piece.png",
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
-              "sat2",
+              "sat2"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat2"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat2"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat2"
               
             ]
           }
@@ -103,6 +145,49 @@
             "visibility_rules": [
               "sat3"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat3"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat3"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat3"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -135,6 +220,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat4"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat4"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat4"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat4"
+              
             ]
           }
         ],
@@ -169,6 +297,49 @@
             "visibility_rules": [
               "sat5"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat5"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat5"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat5"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -201,6 +372,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat6"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat6"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat6"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat6"
+              
             ]
           }
         ],
@@ -235,6 +449,49 @@
             "visibility_rules": [
               "sat7"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat7"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat7"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat7"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -267,6 +524,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat8"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat8"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat8"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat8"
+              
             ]
           }
         ],
@@ -301,6 +601,49 @@
             "visibility_rules": [
               "sat9"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat9"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat9"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat9"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -333,6 +676,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat10"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat10"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat10"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat10"
+              
             ]
           }
         ],
@@ -370,6 +756,49 @@
             "visibility_rules": [
               "sat11,$check_last_level|11"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat11"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat11"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat11"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -405,6 +834,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat12,$check_last_level|12"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat12"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat12"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat12"
+              
             ]
           }
         ],
@@ -442,6 +914,49 @@
             "visibility_rules": [
               "sat13,$check_last_level|13"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat13"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat13"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat13"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -477,6 +992,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat14,$check_last_level|14"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat14"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat14"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat14"
+              
             ]
           }
         ],
@@ -514,6 +1072,49 @@
             "visibility_rules": [
               "sat15,$check_last_level|15"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat15"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat15"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat15"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -549,6 +1150,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat16,$check_last_level|16"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat16"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat16"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat16"
+              
             ]
           }
         ],
@@ -586,6 +1230,49 @@
             "visibility_rules": [
               "sat17,$check_last_level|17"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat17"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat17"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat17"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -619,7 +1306,52 @@
             "clear_as_group":false,
             "chest_unopened_img": "images/items/ship_piece.png",
             "chest_opened_img": "images/items/ship_piece_empty.png",
-            
+            "visibility_rules": [
+              "sat18"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat18"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat18"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat18"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -655,6 +1387,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat19"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat19"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat19"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat19"
+              
             ]
           }
         ],
@@ -692,6 +1467,49 @@
             "visibility_rules": [
               "sat20"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat20"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat20"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat20"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -727,6 +1545,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat21"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat21"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat21"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat21"
+              
             ]
           }
         ],
@@ -764,6 +1625,49 @@
             "visibility_rules": [
               "sat22"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat22"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat22"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat22"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -799,6 +1703,49 @@
             "chest_opened_img": "images/items/ship_piece_empty.png",
             "visibility_rules": [
               "sat23"
+            ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat23"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat23"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat23"
+              
             ]
           }
         ],
@@ -836,6 +1783,49 @@
             "visibility_rules": [
               "sat24"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat24"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat24"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat24"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -872,6 +1862,49 @@
             "visibility_rules": [
               "sat25"
             ]
+          },
+          {
+            "name": "Reached",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/chest.png",
+            "chest_opened_img": "images/items/chest_opened.png",
+            "visibility_rules": [
+              "rat"
+            ]
+          },
+          {
+            "name": "Mailbox Top",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat25"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Middle",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat25"
+              
+            ]
+          },
+          {
+            "name": "Mailbox Bottom",
+            "item_count": 1,
+            "clear_as_group":false,
+            "chest_unopened_img": "images/items/mailbox.png",
+            "chest_opened_img": "images/items/mailbox_got.png",
+            "visibility_rules": [
+              "mat25"
+              
+            ]
           }
         ],
         "map_locations": [
@@ -886,6 +1919,9 @@
       {
         "name": "Dufus",
         "access_rules": [
+        ],
+        "visibility_rules": [
+            "$check_max_rank|1"
         ],
         "sections": [
           {
@@ -909,6 +1945,9 @@
         "name": "Poindexter",
         "access_rules": [
         ],
+        "visibility_rules": [
+            "$check_max_rank|2"
+        ],
         "sections": [
           {
             "name": "Promotion Item",
@@ -930,6 +1969,9 @@
       {
         "name": "Peanut",
         "access_rules": [
+        ],
+        "visibility_rules": [
+            "$check_max_rank|3"
         ],
         "sections": [
           {
@@ -953,6 +1995,9 @@
         "name": "Dude",
         "access_rules": [
         ],
+        "visibility_rules": [
+            "$check_max_rank|4"
+        ],
         "sections": [
           {
             "name": "Promotion Item",
@@ -974,6 +2019,9 @@
       {
         "name": "Bro",
         "access_rules": [
+        ],
+        "visibility_rules": [
+            "$check_max_rank|5"
         ],
         "sections": [
           {
@@ -997,6 +2045,9 @@
         "name": "Homey",
         "access_rules": [
         ],
+        "visibility_rules": [
+            "$check_max_rank|6"
+        ],
         "sections": [
           {
             "name": "Promotion Item",
@@ -1019,6 +2070,9 @@
         "name": "Rapmaster",
         "access_rules": [
         ],
+        "visibility_rules": [
+            "$check_max_rank|7"
+        ],
         "sections": [
           {
             "name": "Promotion Item",
@@ -1040,6 +2094,9 @@
       {
         "name": "Funk Lord",
         "access_rules": [
+        ],
+        "visibility_rules": [
+            "$check_max_rank|8"
         ],
         "sections": [
           {

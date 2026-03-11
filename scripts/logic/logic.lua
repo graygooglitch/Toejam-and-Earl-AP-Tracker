@@ -27,6 +27,18 @@ function check_last_level(n)
     return 0 -- 0 => no access
 end
 
+function check_max_rank(n)
+    local obj = Tracker:FindObjectForCode("max_rank")
+    local val = (obj.AcquiredCount >= tonumber(n))
+    if ENABLE_DEBUG_LOG then
+        print(string.format("check_max_rank: count: %s, n: %s, val: %s", obj.AcquiredCount, n, val))
+    end
+    if val then
+        return 1 -- 1 => access is in logic
+    end
+    return 0 -- 0 => no access
+end
+
 function last_level_requirements(n)
     local obj = Tracker:FindObjectForCode("last_level")
     local val = (obj.AcquiredCount == tonumber(n))

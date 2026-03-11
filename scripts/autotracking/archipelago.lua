@@ -94,10 +94,17 @@ function apply_slot_data(slot_data)
 	print(dump_table(slot_data))
 	KEY_LEVEL_ACCESS = slot_data["key_level_access"]
 	LAST_LEVEL = slot_data["last_level"]
+	MAX_RANK = slot_data["max_rank_check"]
+	REACH_LEVEL_CHECKS = slot_data["reach_level_checks"]
 	local obj = Tracker:FindObjectForCode("last_level")
 	obj.AcquiredCount = LAST_LEVEL
+	local obj = Tracker:FindObjectForCode("max_rank")
+	obj.AcquiredCount = MAX_RANK
+	local obj = Tracker:FindObjectForCode("rat")
+	obj.Active = REACH_LEVEL_CHECKS
 	print(LAST_LEVEL)
 	local ship_item_levels = slot_data["ship_item_levels"]
+	local mailbox_levels = slot_data["mailbox_levels"]
 	local items_per_level = slot_data["items_per_level"]
 	-- set item counts
 	for i, itemcount in ipairs(items_per_level) do
@@ -106,6 +113,10 @@ function apply_slot_data(slot_data)
 	end
 	for i, shipitems in ipairs(ship_item_levels) do
 		local obj = Tracker:FindObjectForCode(string.format("sat%s",shipitems))
+		obj.Active = true
+	end
+	for i, mailitems in ipairs(mailbox_levels) do
+		local obj = Tracker:FindObjectForCode(string.format("mat%s",mailitems))
 		obj.Active = true
 	end
 	local progkey = Tracker:FindObjectForCode("progkey")
