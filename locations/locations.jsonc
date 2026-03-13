@@ -61,11 +61,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat2"
             ]
@@ -137,11 +137,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat3"
             ]
@@ -213,11 +213,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat4"
             ]
@@ -289,11 +289,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat5"
             ]
@@ -365,11 +365,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat6"
             ]
@@ -441,11 +441,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat7"
             ]
@@ -517,11 +517,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat8"
             ]
@@ -593,11 +593,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat9"
             ]
@@ -669,11 +669,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat10"
             ]
@@ -748,11 +748,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat11,$check_last_level|11"
             ]
@@ -827,11 +827,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat12,$check_last_level|12"
             ]
@@ -906,11 +906,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat13,$check_last_level|13"
             ]
@@ -985,11 +985,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat14,$check_last_level|14"
             ]
@@ -1064,11 +1064,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat15,$check_last_level|15"
             ]
@@ -1143,11 +1143,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat16,$check_last_level|16"
             ]
@@ -1222,11 +1222,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat17,$check_last_level|17"
             ]
@@ -1301,11 +1301,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat18"
             ]
@@ -1380,11 +1380,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat19"
             ]
@@ -1459,11 +1459,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat20"
             ]
@@ -1538,11 +1538,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat21"
             ]
@@ -1617,11 +1617,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat22"
             ]
@@ -1696,11 +1696,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat23"
             ]
@@ -1775,11 +1775,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat24"
             ]
@@ -1854,11 +1854,11 @@
             "chest_opened_img": "images/items/chest_opened.png"
           },
           {
-            "name": "Ship Part",
+            "name": "Big Item",
             "item_count": 1,
             "clear_as_group":false,
-            "chest_unopened_img": "images/items/ship_piece.png",
-            "chest_opened_img": "images/items/ship_piece_empty.png",
+            "chest_unopened_img": "images/items/big_item.png",
+            "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
               "sat25"
             ]
