@@ -1307,7 +1307,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat18"
+              "sat18,$check_last_level|18"
             ]
           },
           {
@@ -1386,7 +1386,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat19"
+              "sat19,$check_last_level|19"
             ]
           },
           {
@@ -1465,7 +1465,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat20"
+              "sat20,$check_last_level|20"
             ]
           },
           {
@@ -1544,7 +1544,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat21"
+              "sat21,$check_last_level|21"
             ]
           },
           {
@@ -1623,7 +1623,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat22"
+              "sat22,$check_last_level|22"
             ]
           },
           {
@@ -1702,7 +1702,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat23"
+              "sat23,$check_last_level|23"
             ]
           },
           {
@@ -1781,7 +1781,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat24"
+              "sat24,$check_last_level|24"
             ]
           },
           {
@@ -1860,7 +1860,7 @@
             "chest_unopened_img": "images/items/big_item.png",
             "chest_opened_img": "images/items/big_item_empty.png",
             "visibility_rules": [
-              "sat25"
+              "sat25,$check_last_level|25"
             ]
           },
           {
